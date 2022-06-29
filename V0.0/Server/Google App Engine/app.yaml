@@ -1,0 +1,8 @@
+runtime: nodejs
+env: flex
+
+# for standard environment - replace all with runtime: nodejs14
+
+env_variables:
+   GCLOUD_STORAGE_BUCKET: the_canvas_app_bucket
+   UPDATE_MANAGER_URL: wss://update-manager-dot-the-canvas-app.uw.r.appspot.com

@@ -1,0 +1,7 @@
+Creating and deploying a google app engine server: https://cloud.google.com/appengine/docs/standard/nodejs/building-app
+
+Running google cloud storage locally
+https://github.com/GoogleCloudPlatform/nodejs-docs-samples/blob/4b997c231bc990c7f6dc2535b611b8e948cbce69/appengine/storage/flexible/README.md
+
+Websockets best practices
+https://medium.com/voodoo-engineering/websockets-on-production-with-node-js-bdc82d07bb9f

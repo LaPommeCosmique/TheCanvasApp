@@ -1,0 +1,12 @@
+THE CANVAS APP FILE SYSTEM V0.0
+
+*************************************************************************************************
+
+The Canvas App file system V0.0 corresponds to the Canvas App V0.0
+
+All data will be stored in google cloud storage, in the bucket "the_canvas_app_bucket", folder "V0.0".
+URL: https://storage.googleapis.com/the_canvas_app_bucket/V0.0/
+
+*************************************************************************************************
+
+

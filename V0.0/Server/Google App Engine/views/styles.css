@@ -1,0 +1,36 @@
+
+body {
+  max-width: 800px;
+}
+
+.container {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  padding: 0 10px;
+  margin: 10px 0;
+  white-space: pre-line;
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.message_bar {
+  height:10vh;
+  width:  100%;
+  font-size:14pt;
+}
+
+.time {
+  float: right;
+  color: #aaa;
+}
+
+div.field {
+  height: 70vh;
+  overflow: auto;
+  text-align:justify;
+}

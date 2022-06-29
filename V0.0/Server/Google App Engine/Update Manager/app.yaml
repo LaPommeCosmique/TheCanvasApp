@@ -1,0 +1,12 @@
+runtime: nodejs
+env: flex
+
+service: update-manager
+
+manual_scaling:
+  instances: 1
+
+# for standard environment - replace all with runtime: nodejs14
+
+env_variables:
+   GCLOUD_STORAGE_BUCKET: the_canvas_app_bucket
